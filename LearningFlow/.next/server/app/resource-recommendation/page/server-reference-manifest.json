@@ -1,0 +1,16 @@
+{
+  "node": {
+    "406dfa5a748b85c93376091839840d396deb97871a": {
+      "workers": {
+        "app/resource-recommendation/page": {
+          "moduleId": "[project]/.next-internal/server/app/resource-recommendation/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/resource-recommendation.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/resource-recommendation/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}

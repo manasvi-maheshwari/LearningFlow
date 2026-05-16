@@ -1,0 +1,10 @@
+{
+  "/assignments/page": "app/assignments/page.js",
+  "/attendance/page": "app/attendance/page.js",
+  "/cgpa-calculator/page": "app/cgpa-calculator/page.js",
+  "/courses/page": "app/courses/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js",
+  "/resource-recommendation/page": "app/resource-recommendation/page.js"
+}
